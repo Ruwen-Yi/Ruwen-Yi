@@ -15,7 +15,7 @@ I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, 
 </br>
 
 ---
-
+### Recent Activities
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool/pull/1) in [Ruwen-Yi/Curriculum-Mapping-Tool](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool)
 2. 💪 Opened PR [#1](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool/pull/1) in [Ruwen-Yi/Curriculum-Mapping-Tool](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool)
