@@ -1,8 +1,9 @@
 ### Hi there 👋
 I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, Australia. 
 
-### My Skills
+### My skills 💪🏼
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruwen-Yi&layout=donut-vertical)](https://github.com/Ruwen-Yi/github-readme-stats)
+
 <!--
 ### My Coding Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruwen-Yi&hide=stars,contribs)
