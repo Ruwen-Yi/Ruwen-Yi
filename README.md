@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, Australia. 
+
+
+
 
 <!--
 **Ruwen-Yi/Ruwen-Yi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
