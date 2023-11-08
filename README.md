@@ -10,6 +10,9 @@ I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruwen-Yi&layout=donut)](https://github.com/Ruwen-Yi/github-readme-stats)
 
+</br>
+
+<!--START_SECTION:activity-->
 
 <!--
 ### My Coding Stats
