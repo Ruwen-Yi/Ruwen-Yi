@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=30&lines=A+DAY+WITHOUT+LEARNING+IS+A+DAY+WASTED.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=4000&pause=5000&vCenter=true&multiline=true&random=false&width=500&height=30&lines=A+DAY+WITHOUT+LEARNING+IS+A+DAY+WASTED.)](https://git.io/typing-svg)
 </br>
 ### Hi there 👋
 I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, Australia. 
