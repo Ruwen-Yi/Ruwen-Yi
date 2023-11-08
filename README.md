@@ -17,6 +17,12 @@ I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, 
 ---
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool/pull/1) in [Ruwen-Yi/Curriculum-Mapping-Tool](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool)
+2. 💪 Opened PR [#1](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool/pull/1) in [Ruwen-Yi/Curriculum-Mapping-Tool](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool)
+3. 🎉 Merged PR [#19](https://github.com/Ruwen-Yi/react-comprehensive-project/pull/19) in [Ruwen-Yi/react-comprehensive-project](https://github.com/Ruwen-Yi/react-comprehensive-project)
+4. 💪 Opened PR [#19](https://github.com/Ruwen-Yi/react-comprehensive-project/pull/19) in [Ruwen-Yi/react-comprehensive-project](https://github.com/Ruwen-Yi/react-comprehensive-project)
+5. 🔒 Closed issue [#18](https://github.com/Ruwen-Yi/react-comprehensive-project/issues/18) in [Ruwen-Yi/react-comprehensive-project](https://github.com/Ruwen-Yi/react-comprehensive-project)
+<!--END_SECTION:activity-->
 
 
 <!--
