@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, Australia. 
 <p align="center">
-    <a href="https://github.com/Ruwen-Yi/github-readme-stats/issues">
+    <a href="https://github.com/issues?q=is%3Aissue+author%3ARuwen-Yi+archived%3Afalse+is%3Aclosed">
       <img alt="Issues" src="https://img.shields.io/github/issues/Ruwen-Yi/github-readme-stats?color=0088ff" />
     </a>
     <a href="https://github.com/Ruwen-Yi/github-readme-stats/pulls">
