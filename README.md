@@ -2,7 +2,7 @@
 I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, Australia. 
 
 ### My Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruwen-Yi)](https://github.com/Ruwen-Yi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruwen-Yi&layout=pie)](https://github.com/Ruwen-Yi/github-readme-stats)
 
 ### My Coding Stats
 [![wakatime](https://wakatime.com/badge/user/018bad4e-ca4a-4e4e-8c3c-f945f885d9f1.svg)](https://wakatime.com/@018bad4e-ca4a-4e4e-8c3c-f945f885d9f1)
