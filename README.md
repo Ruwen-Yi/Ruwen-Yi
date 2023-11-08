@@ -6,9 +6,9 @@ I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, 
 - 😎 I am also familiar with Webpack, Jest.js, EJS.js and MongoDB.
 - 🌱 I am currently learning something new and expect to use them in the next project.
 
-<p>
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruwen-Yi&layout=donut-vertical)](https://github.com/Ruwen-Yi/github-readme-stats)
-</p>
+
 <!--
 ### My Coding Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruwen-Yi&hide=stars,contribs)
