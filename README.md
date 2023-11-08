@@ -14,6 +14,7 @@ I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, 
 
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
 <!--
 ### My Coding Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruwen-Yi&hide=stars,contribs)
