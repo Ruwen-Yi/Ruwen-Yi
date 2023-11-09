@@ -39,7 +39,7 @@ JavaScript   15 mins         █████████████████
 Markdown     3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
 Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ruwen-Yi)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
 
 
