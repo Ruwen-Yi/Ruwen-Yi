@@ -27,6 +27,7 @@ I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, 
 5. 🔒 Closed issue [#18](https://github.com/Ruwen-Yi/react-comprehensive-project/issues/18) in [Ruwen-Yi/react-comprehensive-project](https://github.com/Ruwen-Yi/react-comprehensive-project)
 <!--END_SECTION:activity-->
 
+---
 ### My Coding Stats
 <!--START_SECTION:waka-->
 
