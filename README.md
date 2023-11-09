@@ -9,7 +9,7 @@ I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, 
 ### My skills 💪🏼
 - 🔭 I work extensively with HTML, CSS, JavaScript, React, Node.js/Express.js, and MySQL.
 - 😎 I am also familiar with Webpack, Jest.js, EJS.js and MongoDB.
-- 🌱 I am currently learning something new and expect to use them in the next project.
+- 🌱 I am currently learning something new and expecting to use them in the next project.
 
 </br>
 
