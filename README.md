@@ -29,6 +29,13 @@ I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, 
 
 ### My Coding Stats
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   15 mins         ████████████████████▒░░░░   81.62 %
+Markdown     3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+```
+
 <!--END_SECTION:waka-->
 
 
