@@ -33,6 +33,8 @@ I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, 
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 18 mins
+
 JavaScript   15 mins         ████████████████████▒░░░░   81.62 %
 Markdown     3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
 Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
