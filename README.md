@@ -28,11 +28,15 @@ I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, 
 <!--END_SECTION:activity-->
 
 ### My Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruwen-Yi&hide=stars,contribs)
 [![wakatime](https://wakatime.com/badge/user/018bad4e-ca4a-4e4e-8c3c-f945f885d9f1.svg)](https://wakatime.com/@018bad4e-ca4a-4e4e-8c3c-f945f885d9f1)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ruwen)](https://github.com/Ruwen-Yi/github-readme-stats)
 
-<!--
 **Ruwen-Yi/Ruwen-Yi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
