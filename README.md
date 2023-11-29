@@ -6,7 +6,7 @@ I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, 
 <a href="https://visits.dashroshan.com"><img src="https://visits.dashroshan.com/oLlahjarpvnLEU1K3paC?label=VISITS&shadow=1&shadowOpacity=30&swap=0&labelBGColor=484848&countBGColor=2574EA&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
 -->
 
-<a href="https://visits.dashroshan.com"><img src="https://visits.dashroshan.com/oLlahjarpvnLEU1K3paC?label=VISITS&shadow=1&shadowOpacity=30&swap=0&labelBGColor=484848&countBGColor=2574EA&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
+<a href="https://visits.dashroshan.com" display="none"><img src="https://visits.dashroshan.com/oLlahjarpvnLEU1K3paC?label=VISITS&shadow=1&shadowOpacity=30&swap=0&labelBGColor=484848&countBGColor=2574EA&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
 
 ---
 ### My Skills 💪🏼
