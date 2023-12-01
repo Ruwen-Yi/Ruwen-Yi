@@ -1,13 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=4000&pause=5000&vCenter=true&multiline=true&random=false&width=500&height=30&lines=A+DAY+WITHOUT+LEARNING+IS+A+DAY+WASTED.)](https://git.io/typing-svg)
 </br>
 ### Hi There 👋
-I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, Australia. 
-</br>
-</br>
-Programming brings me immense joy, especially when I am able to apply my skills to solve real-world problems and provide solutions that truly satisfy the client. The thrill of meeting and exceeding their expectations is what fuels my passion for programming. It is in these moments that I feel a deep sense of fulfillment and motivation to continuously improve my abilities. 
-</br>
-</br>
-**The satisfaction of delivering effective solutions to clients is what drives me to push boundaries and excel in the field of programming.**
+
+<p align="center">
+	I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, Australia. 
+	</br>
+	</br>
+	Programming brings me immense joy, especially when I am able to apply my skills to solve real-world problems and provide solutions that truly satisfy the client. The thrill of meeting and exceeding their expectations is what fuels my passion for programming. It is in these moments that I feel a deep sense of fulfillment and motivation to continuously improve my abilities. 
+	</br>
+	</br>
+	<b>The satisfaction of delivering effective solutions to clients is what drives me to push boundaries and excel in the field of programming.</b>
+</p>
+
 
 <!-- visitors-->
 <a href="https://visits.dashroshan.com"><img src="https://visits.dashroshan.com/oLlahjarpvnLEU1K3paC?label=VISITS&shadow=1&shadowOpacity=30&swap=0&labelBGColor=484848&countBGColor=2574EA&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=20px/></a>
