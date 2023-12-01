@@ -39,12 +39,12 @@ Programming brings me immense joy, especially when I am able to apply my skills 
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="yarn" title="yarn"/></code>
 </div>
+</br>
 <div align="center">
 	And More...!
-</div>
-
+</div align="center">
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruwen-Yi&layout=donut)](https://github.com/Ruwen-Yi/github-readme-stats)
-
 </br>
 
 ---
