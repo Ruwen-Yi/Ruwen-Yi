@@ -45,7 +45,11 @@ Programming brings me immense joy, especially when I am able to apply my skills 
 </div>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruwen-Yi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruwen-Yi&layout=compact" />
+</p>
+
+
 
 
 ---
