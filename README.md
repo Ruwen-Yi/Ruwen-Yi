@@ -44,11 +44,11 @@ I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, 
 ---
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#21](https://github.com/Ruwen-Yi/react-side-projects/issues/21) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
-2. ❗ Opened issue [#20](https://github.com/Ruwen-Yi/react-side-projects/issues/20) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
-3. 🎉 Merged PR [#19](https://github.com/Ruwen-Yi/react-comprehensive-project/pull/19) in [Ruwen-Yi/react-comprehensive-project](https://github.com/Ruwen-Yi/react-comprehensive-project)
-4. 💪 Opened PR [#19](https://github.com/Ruwen-Yi/react-comprehensive-project/pull/19) in [Ruwen-Yi/react-comprehensive-project](https://github.com/Ruwen-Yi/react-comprehensive-project)
-5. 🔒 Closed issue [#18](https://github.com/Ruwen-Yi/react-comprehensive-project/issues/18) in [Ruwen-Yi/react-comprehensive-project](https://github.com/Ruwen-Yi/react-comprehensive-project)
+1. 🔒 Closed issue [#20](https://github.com/Ruwen-Yi/react-side-projects/issues/20) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
+2. 🎉 Merged PR [#22](https://github.com/Ruwen-Yi/react-side-projects/pull/22) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
+3. 💪 Opened PR [#22](https://github.com/Ruwen-Yi/react-side-projects/pull/22) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
+4. ❗ Opened issue [#21](https://github.com/Ruwen-Yi/react-side-projects/issues/21) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
+5. ❗ Opened issue [#20](https://github.com/Ruwen-Yi/react-side-projects/issues/20) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
 <!--END_SECTION:activity-->
 
 ---
