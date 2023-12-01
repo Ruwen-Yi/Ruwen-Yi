@@ -6,7 +6,8 @@ I'm Ruwen Yi, a passionate self-motivated full-stack web developer in Adelaide, 
 </br>
 Programming brings me immense joy, especially when I am able to apply my skills to solve real-world problems and provide solutions that truly satisfy the client. The thrill of meeting and exceeding their expectations is what fuels my passion for programming. It is in these moments that I feel a deep sense of fulfillment and motivation to continuously improve my abilities. 
 </br>
-<ins>The satisfaction of delivering effective solutions to clients is what drives me to push boundaries and excel in the field of programming.</ins>
+</br>
+**The satisfaction of delivering effective solutions to clients is what drives me to push boundaries and excel in the field of programming.**
 
 <!-- visitors-->
 <a href="https://visits.dashroshan.com"><img src="https://visits.dashroshan.com/oLlahjarpvnLEU1K3paC?label=VISITS&shadow=1&shadowOpacity=30&swap=0&labelBGColor=484848&countBGColor=2574EA&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=20px/></a>
