@@ -56,11 +56,11 @@ Programming brings me immense joy, especially when I am able to apply my skills 
 ---
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/Ruwen-Yi/react-side-projects/pull/24) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
-2. 💪 Opened PR [#24](https://github.com/Ruwen-Yi/react-side-projects/pull/24) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
-3. 🎉 Merged PR [#23](https://github.com/Ruwen-Yi/react-side-projects/pull/23) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
-4. 💪 Opened PR [#23](https://github.com/Ruwen-Yi/react-side-projects/pull/23) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
-5. 🔒 Closed issue [#20](https://github.com/Ruwen-Yi/react-side-projects/issues/20) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
+1. 🗣 Commented on [#25](https://github.com/Ruwen-Yi/react-side-projects/issues/25#issuecomment-1845152510) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
+2. 🔒 Closed issue [#25](https://github.com/Ruwen-Yi/react-side-projects/issues/25) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
+3. 🎉 Merged PR [#27](https://github.com/Ruwen-Yi/react-side-projects/pull/27) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
+4. 💪 Opened PR [#27](https://github.com/Ruwen-Yi/react-side-projects/pull/27) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
+5. ❗ Opened issue [#26](https://github.com/Ruwen-Yi/react-side-projects/issues/26) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
 <!--END_SECTION:activity-->
 
 ---
