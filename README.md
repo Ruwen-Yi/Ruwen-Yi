@@ -56,11 +56,11 @@ Programming brings me immense joy, especially when I am able to apply my skills 
 ---
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/Ruwen-Yi/react-side-projects/issues/25#issuecomment-1845152510) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
-2. 🔒 Closed issue [#25](https://github.com/Ruwen-Yi/react-side-projects/issues/25) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
-3. 🎉 Merged PR [#27](https://github.com/Ruwen-Yi/react-side-projects/pull/27) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
-4. 💪 Opened PR [#27](https://github.com/Ruwen-Yi/react-side-projects/pull/27) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
-5. ❗ Opened issue [#26](https://github.com/Ruwen-Yi/react-side-projects/issues/26) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
+1. 🔒 Closed issue [#2](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool/issues/2) in [Ruwen-Yi/Curriculum-Mapping-Tool](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool)
+2. 🎉 Merged PR [#3](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool/pull/3) in [Ruwen-Yi/Curriculum-Mapping-Tool](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool)
+3. 💪 Opened PR [#3](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool/pull/3) in [Ruwen-Yi/Curriculum-Mapping-Tool](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool)
+4. ❗ Opened issue [#2](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool/issues/2) in [Ruwen-Yi/Curriculum-Mapping-Tool](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool)
+5. 🗣 Commented on [#25](https://github.com/Ruwen-Yi/react-side-projects/issues/25#issuecomment-1845152510) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
 <!--END_SECTION:activity-->
 
 ---
