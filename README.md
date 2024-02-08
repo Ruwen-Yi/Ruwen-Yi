@@ -19,7 +19,7 @@ Previously, I worked as a React front-end developer intern. Additionally, I have
 
 
 ### My Skills 💪🏼
-- 🔭 I work extensively with HTML, CSS, JavaScript, React, Node.js/Express.js, and MySQL.
+- 🔭 I work extensively with HTML, CSS, JavaScript, React, Next.js, Node.js/Express.js, and MySQL.
 - 😎 I am also familiar with Webpack, Jest.js, EJS.js and MongoDB.
 - 🌱 I am currently learning something new and expecting to use them in the next project.
 <div align="center">
