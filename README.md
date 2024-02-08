@@ -14,6 +14,10 @@ Programming brings me immense joy, especially when I am able to apply my skills 
 <a href="https://visits.dashroshan.com"><img src="https://visits.dashroshan.com/oLlahjarpvnLEU1K3paC?label=VISITS&shadow=1&shadowOpacity=30&swap=0&labelBGColor=484848&countBGColor=2574EA&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=20px/></a>
 
 ---
+### My Experience
+Previously, I worked as a React front-end developer intern. Additionally, I have experience serving as a technical leader and a back-end developer on campus, as well as volunteering as a web developer to help connect disabled individuals with healthcare providers.
+
+
 ### My Skills 💪🏼
 - 🔭 I work extensively with HTML, CSS, JavaScript, React, Node.js/Express.js, and MySQL.
 - 😎 I am also familiar with Webpack, Jest.js, EJS.js and MongoDB.
