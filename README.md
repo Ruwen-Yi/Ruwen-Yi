@@ -60,8 +60,8 @@ Previously, I worked as a React front-end developer intern. Additionally, I have
 ---
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool/pull/4) in [Ruwen-Yi/Curriculum-Mapping-Tool](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool)
-2. 💪 Opened PR [#4](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool/pull/4) in [Ruwen-Yi/Curriculum-Mapping-Tool](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool)
+1. 🎉 Merged PR [#28](https://github.com/Ruwen-Yi/react-side-projects/pull/28) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
+2. 💪 Opened PR [#28](https://github.com/Ruwen-Yi/react-side-projects/pull/28) in [Ruwen-Yi/react-side-projects](https://github.com/Ruwen-Yi/react-side-projects)
 3. 🔒 Closed issue [#2](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool/issues/2) in [Ruwen-Yi/Curriculum-Mapping-Tool](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool)
 4. 🎉 Merged PR [#3](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool/pull/3) in [Ruwen-Yi/Curriculum-Mapping-Tool](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool)
 5. 💪 Opened PR [#3](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool/pull/3) in [Ruwen-Yi/Curriculum-Mapping-Tool](https://github.com/Ruwen-Yi/Curriculum-Mapping-Tool)
